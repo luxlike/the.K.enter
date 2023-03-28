@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 
-title: ELITE World
+title: ELITE World!
 description: 세계 최초 생성형 AI 걸그룹 ELITE(엘리트)의 세계에 오신걸 환영합니다.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://luxlike.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
